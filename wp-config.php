@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'halofood_db' );
 
 /** MySQL database username */
-define( 'DB_USER', 'halofood_admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '/*-789++qaZZ' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'mysql06.dotvndns.vn' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
